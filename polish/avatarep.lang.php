@@ -6,15 +6,15 @@
 *  Sitio Web: http://forosmybb.es
 *  Autor: Dark Neo - neogeoman@gmail.com
 */
-$l['avatarep_user_profile'] = "View Profile";
-$l['avatarep_user_messages'] = "View Messages";
-$l['avatarep_user_sendpm'] = "Send PM";
-$l['avatarep_user_sendemail'] = "Send E-mail";
-$l['avatarep_user_threads'] = "View Threads";
-$l['avatarep_user_error'] = " Error ";
-$l['avatarep_user_error_text'] = " You must login to see this content ";
-$l['avatarep_user_alt'] = "{1}'s Avatar";
-$l['avatarep_user_no_avatar'] = "No avatar";
-$l['avatarep_retrieving'] = "Retrieving Data";
-$l['avatarep_loading'] = "Loading...";
+$l['avatarep_user_profile'] = "Przejdź do profilu";
+$l['avatarep_user_messages'] = "Przejdź do wiadomości";
+$l['avatarep_user_sendpm'] = "Wyślij PM";
+$l['avatarep_user_sendemail'] = "Wyślij E-mail";
+$l['avatarep_user_threads'] = "Przeglądaj wątki";
+$l['avatarep_user_error'] = " Błąd ";
+$l['avatarep_user_error_text'] = " Musisz być zalogowany, żeby zobaczyć ten komentarz ";
+$l['avatarep_user_alt'] = "Awatar użytkownika {1}";
+$l['avatarep_user_no_avatar'] = "Brak awatara";
+$l['avatarep_retrieving'] = "Pozyskiwanie danych";
+$l['avatarep_loading'] = "Ładowanie...";
 ?>
