@@ -4,22 +4,22 @@
 
 // server
 $l['dvz_sb_shoutbox'] = 'Shoutbox';
-$l['dvz_sb_archive'] = 'Shoutbox archive';
-$l['dvz_sb_archivelink'] = 'archive';
-$l['dvz_sb_last_read_link'] = 'Go to last read';
-$l['dvz_sb_last_read_unmark_all'] = 'Mark all read';
-$l['dvz_sb_default'] = 'ENTER your message...';
-$l['dvz_sb_user_blocked'] = 'You have been blocked from posting messages in Shoutbox.';
-$l['dvz_sb_minposts'] = 'Post at least {MINPOSTS} forum messages to be able to use Shoutbox.';
-$l['dvz_sb_mod'] = 'Shoutbox moderation';
-$l['dvz_sb_mod_banlist'] = 'Banned users\' IDs (comma-separated)';
-$l['dvz_sb_mod_banlist_button'] = 'Save';
-$l['dvz_sb_mod_clear'] = 'Delete messages older than...';
-$l['dvz_sb_mod_clear_all'] = 'All messages';
-$l['dvz_sb_mod_clear_button'] = 'Delete';
-$l['dvz_sb_activity'] = 'Viewing <a href="%s">Shoutbox archive</a>';
+$l['dvz_sb_archive'] = 'Archiwum Shoutboxa';
+$l['dvz_sb_archivelink'] = 'archiwum';
+$l['dvz_sb_last_read_link'] = 'Przejdź do ostatniej przeczytanej wiadomości';
+$l['dvz_sb_last_read_unmark_all'] = 'Zaznacz wszystkie jako przeczytane';
+$l['dvz_sb_default'] = 'Wpisz swoją wiadomość...';
+$l['dvz_sb_user_blocked'] = 'Możliwość wysyłania wiadomości w Shoutboxie została dla ciebie zablokowana.';
+$l['dvz_sb_minposts'] = 'Utwórz co najmniej {MINPOSTS} wiadomości na forum, żeby móc korzystać z Shoutboxa.';
+$l['dvz_sb_mod'] = 'Moderacja Shoutboxa';
+$l['dvz_sb_mod_banlist'] = 'Zbanowani użytkownicy\' ID (rozdzielone przecinkami)';
+$l['dvz_sb_mod_banlist_button'] = 'Zapisz';
+$l['dvz_sb_mod_clear'] = 'Usuń wiadomości starsze niż...';
+$l['dvz_sb_mod_clear_all'] = 'Wszystkie wiadomości';
+$l['dvz_sb_mod_clear_button'] = 'Usuń';
+$l['dvz_sb_activity'] = 'Przeglądanie <a href="%s">Archiwum Shoutboxa</a>';
 
 // JavaScript
-$l['dvz_sb_delete_confirm'] = 'Do you really want to delete this message?';
-$l['dvz_sb_antiflood'] = 'Please wait at least {ANTIFLOOD} seconds between your subsequent messages.';
-$l['dvz_sb_permissions'] = 'You do not have permissions to perform this action.';
+$l['dvz_sb_delete_confirm'] = 'Czy na pewno chcesz usunąć tę wiadomość?';
+$l['dvz_sb_antiflood'] = 'Musisz zaczekać przynajmniej {ANTIFLOOD} sekund pomiędzy kolejnymi wiadomościami.';
+$l['dvz_sb_permissions'] = 'Nie masz zezwolenia na wykonanie tej czynności.';
