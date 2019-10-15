@@ -149,7 +149,7 @@ $l['mydownloads_flood_check'] = "You are trying to post a comment too quickly af
 $l['mydownloads_forum'] = 'Forum';
 $l['mydownloads_go_to_all_downloads'] = 'Go to All Downloads';
 $l['mydownloads_guidelines'] = "[b]By pressing submit you confirm that your upload follows these rules.[/b]\n
-[u][b]Submission Rules [Updated: 29 September 2019][/b][/u]
+[u][b]Submission Rules [Updated: 16 October 2019][/b][/u]
 [list=1]
 [*][b]Do not upload mods that unlock DLC or paid content.[/b]
 [*][b]Do not upload mods with the intention of ruining other's experience.[/b]
@@ -166,7 +166,7 @@ There might be an exception if you use some libraries from trusted sources. If y
 [*][b]Do not upload blatant cheat mods for multiplayer games.[/b]
 Examples include but are not limited to infinite ammo or god mode. Exceptions can be made for sandboxed mods that are only active in private or friends-only lobbies.
 [/list][u][b]Music Rules[/b][/u]
-[i]Only read this if you're uploading music.[/i]
+[i]Only read this if you're uploading any content that contains music.[/i]
 
 [b]Not allowed[/b]
 [list]
