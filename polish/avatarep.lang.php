@@ -8,7 +8,7 @@
 */
 $l['avatarep_user_profile'] = "Przejdź do profilu";
 $l['avatarep_user_messages'] = "Przejdź do wiadomości";
-$l['avatarep_user_sendpm'] = "Wyślij PM";
+$l['avatarep_user_sendpm'] = "Wyślij Prywatną Wiadomość";
 $l['avatarep_user_sendemail'] = "Wyślij E-mail";
 $l['avatarep_user_threads'] = "Przeglądaj wątki";
 $l['avatarep_user_error'] = " Błąd ";
