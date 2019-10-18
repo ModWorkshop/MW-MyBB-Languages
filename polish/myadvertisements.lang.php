@@ -27,8 +27,8 @@
 	along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ****************************************************************************/
 
-$l['myadvertisements_pm_subject'] = 'Advertisement expired';
-$l['myadvertisements_pm_message'] = 'Advertisement whose name is {1} has expired. Ad ID: {2}';
+$l['myadvertisements_pm_subject'] = 'Reklama przedawniła się.';
+$l['myadvertisements_pm_message'] = 'Reklama pod nazwą {1} przedawniła się. ID reklamy: {2}';
 
 $l['myadvertisements_task_ran'] = 'My Advertisements task ran.';
 
